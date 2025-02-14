@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.11abb77b.css",
-    "main.js": "/static/js/main.8a4c27ac.js",
-    "static/media/anhduong.jpg": "/static/media/anhduong.53c663b37415ca39af29.jpg",
-    "static/media/chiphuong.jpg": "/static/media/chiphuong.83e7dda7cd79c9750fdd.jpg",
-    "static/media/anhtheanh.jpg": "/static/media/anhtheanh.593b98cb00546d49908d.jpg",
-    "static/media/hero-img.png": "/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
-    "static/media/feature-2-img.png": "/static/media/feature-2-img.cf233659a120d86cd676.png",
-    "static/media/feature-3-img.png": "/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
-    "static/media/why-img.png": "/static/media/why-img.83f7e1610dd390441337.png",
-    "static/media/feature-1-img.png": "/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
-    "static/media/logo.png": "/static/media/logo.5b4c07ec786929f09a45.png",
-    "index.html": "/index.html",
-    "main.11abb77b.css.map": "/static/css/main.11abb77b.css.map",
-    "main.8a4c27ac.js.map": "/static/js/main.8a4c27ac.js.map"
+    "main.css": "/ckweb3/static/css/main.11abb77b.css",
+    "main.js": "/ckweb3/static/js/main.7e84bff6.js",
+    "static/media/anhduong.jpg": "/ckweb3/static/media/anhduong.53c663b37415ca39af29.jpg",
+    "static/media/chiphuong.jpg": "/ckweb3/static/media/chiphuong.83e7dda7cd79c9750fdd.jpg",
+    "static/media/anhtheanh.jpg": "/ckweb3/static/media/anhtheanh.593b98cb00546d49908d.jpg",
+    "static/media/hero-img.png": "/ckweb3/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
+    "static/media/feature-2-img.png": "/ckweb3/static/media/feature-2-img.cf233659a120d86cd676.png",
+    "static/media/feature-3-img.png": "/ckweb3/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
+    "static/media/why-img.png": "/ckweb3/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/feature-1-img.png": "/ckweb3/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
+    "static/media/logo.png": "/ckweb3/static/media/logo.5b4c07ec786929f09a45.png",
+    "index.html": "/ckweb3/index.html",
+    "main.11abb77b.css.map": "/ckweb3/static/css/main.11abb77b.css.map",
+    "main.7e84bff6.js.map": "/ckweb3/static/js/main.7e84bff6.js.map"
   },
   "entrypoints": [
     "static/css/main.11abb77b.css",
-    "static/js/main.8a4c27ac.js"
+    "static/js/main.7e84bff6.js"
   ]
 }
